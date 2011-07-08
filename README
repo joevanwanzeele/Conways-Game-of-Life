@@ -1,0 +1,4 @@
+jasvascript implementation of Conways game of life.  
+
+This will work on all browsers that support the Canvas tag (all but IE8, 7 and 6, I believe).  But it looks the best on Chrome (thus far).
+
